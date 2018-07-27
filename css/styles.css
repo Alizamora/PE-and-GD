@@ -36,7 +36,10 @@ body{
 /***********
      d
 ***********/
-
+.definicion{
+    height: 450px;
+    width: 960.5;
+}
 /***********
      f
 ***********/
@@ -73,7 +76,6 @@ h2
 /***********
      l
 ***********/
-
 /***********
      m
 ***********/
@@ -97,9 +99,24 @@ h2
     font-weight: bold;
     text-transform: uppercase; 
 }
+
+/***********
+     n
+***********/
+.n1{
+    display: inline-block;
+    width: 375px;
+    height: 270px;
+    margin: 0;
+}
 /**********
      p
 ***********/
+p{
+    text-align: justify;
+    font-size: 20px;
+    color: black;
+}
 /**********
      s
 ***********/
@@ -110,7 +127,9 @@ h2
 /***********
      u
 ***********/
-
+ul{
+    font-size: 18px;
+}
 /***********
      v
 ***********/
