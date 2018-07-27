@@ -1,0 +1,116 @@
+/*
+* Progressive Enhacement and Graseful Degradation 
+*/
+
+/***********
+     a
+***********/
+a {
+    text-decoration: none;
+    color: white;
+}
+/***********
+     b
+***********/
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+/***********
+     c
+***********/
+#contenedor{
+    width: 960px;
+    margin: 0 auto;
+  }
+
+.clearfix::after {
+   display: block;
+   content: "";
+   clear: both;
+  }
+
+/***********
+     d
+***********/
+
+/***********
+     f
+***********/
+
+/***********
+     g
+***********/
+
+/***********
+     h
+***********/
+#header{
+    background-color: #0D7F6C;
+    margin: 0;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+h1{
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+    line-height: 3;
+}
+
+h2
+/***********
+     i
+***********/
+
+/***********
+     l
+***********/
+
+/***********
+     m
+***********/
+.menu {
+    width: 90%;
+    margin: auto;
+}
+.menu li{
+    list-style: none;
+    display: inline;
+}
+
+.menu li + li {
+    margin-left: 100px;
+
+}
+
+.menu a {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase; 
+}
+/**********
+     p
+***********/
+/**********
+     s
+***********/
+.secciones {
+    padding-top: 190px;
+}
+
+/***********
+     u
+***********/
+
+/***********
+     v
+***********/
