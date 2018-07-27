@@ -64,11 +64,13 @@ h1{
     padding-top: 10px;
     line-height: 3;
 }
-
-h2
 /***********
      i
 ***********/
+.imgBP {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 
 /***********
      l
